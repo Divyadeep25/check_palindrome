@@ -1,5 +1,5 @@
 let str="adrak"
-let a=0;
+let a="";
 for(i=str.length-1;i>=0;i--){
 	    a=a+str[i];
 	}
